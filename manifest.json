@@ -75,5 +75,6 @@
       }
     }
   },
-  "homepage_url": "https://your-plugin-name-chore-tag.ubiquity.workers.dev"
+  "homepage_url": "https://your-plugin-name-chore-tag.ubiquity.workers.dev",
+  "short_name": "Meniole/daemon-spec-rewriter@development"
 }
